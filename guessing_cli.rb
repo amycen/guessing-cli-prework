@@ -7,6 +7,6 @@ def run_guessing_game
     puts "Guess an integer:"
     your_guess = gets.chomp.to_i
     binding.pry
-    play = flase
+    play = false
   end
 end
