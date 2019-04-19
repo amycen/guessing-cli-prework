@@ -10,3 +10,4 @@ def run_guessing_game
     play = false
   end
 end
+ run_guessing_game
